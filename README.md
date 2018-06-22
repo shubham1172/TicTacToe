@@ -9,6 +9,7 @@
 -   Button grid for input
 -   Breadboards, jumper cables and batteries
 -   Arduino (as ISP)
+<br>
 The circuit looks like:
 ![circuit](docs/images/circuit.png)
 
