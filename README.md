@@ -11,7 +11,7 @@
 -   Arduino (as ISP)
 
 
-The circuit looks like: <br>
+Circuit diagram: <br>
 ![circuit](docs/images/circuit.png)
 
 ### Running
